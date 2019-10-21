@@ -17,7 +17,7 @@ dj-static==0.0.6
 Django==2.0.3
 django-picklefield==1.0.0
 django-q==1.0.0
-djangorestframework==3.7.7
+djangorestframework==3.9.1
 docker==3.5.0
 docker-compose==1.22.0
 docker-pycreds==0.3.0
